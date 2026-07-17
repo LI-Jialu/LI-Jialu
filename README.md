@@ -6,9 +6,9 @@
 ![focus](https://img.shields.io/badge/focus-LLM%20agents-blue)
 ![location](https://img.shields.io/badge/location-Hong%20Kong-lightgrey)
 
-I am an MPhil student in Electronic and Computer Engineering at HKUST, advised by Prof. Ling Shi. Before HKUST, I studied Computer Science and Integrated Business Administration at CUHK, with a minor in Biochemistry.
+I am an MPhil student in Electronic and Computer Engineering at HKUST. Before HKUST, I studied Computer Science at CUHK.
 
-My current work sits around **LLM agents**, **reinforcement learning**, **tool-use evaluation**, and applications in **clinical decision support** and **robotic systems**.
+My current work sits around **LLM agents**, **reinforcement learning**, and applications in **clinical decision support** and **robotic systems**.
 
 ## What I Build
 
@@ -23,10 +23,6 @@ My current work sits around **LLM agents**, **reinforcement learning**, **tool-u
 - [DrugClaw](https://github.com/LI-Jialu/DrugClaw): an OpenClaw-native drug discovery assistant for literature analysis, ADMET prediction, and virtual screening.
 - [investor-panel-skill](https://github.com/LI-Jialu/investor-panel-skill): a Codex skill that lets a company be reviewed from multiple investor perspectives.
 - [hk-ipo-skill](https://github.com/LI-Jialu/hk-ipo-skill): a skill for Hong Kong IPO information gathering, cross-checking, scoring, and review.
-
-## Research
-
-Recent work includes underwater robotic inspection planning, reinforcement-learning-based stealthy actuator attacks, and graph representations for reading-comprehension analysis with LLMs and eye-tracking biomarkers.
 
 You can find my academic homepage here: **[li-jialu.github.io](https://li-jialu.github.io/)**
 

@@ -1,4 +1,4 @@
-## Hi, I'm Jialu (Caroline) Li
+## 👋 Hi, I'm Jialu (Caroline) Li
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LI-Jialu&show_icons=true&hide_title=true&hide_border=true" width="410">
 
@@ -10,14 +10,14 @@ I am an MPhil student in Electronic and Computer Engineering at HKUST. Before HK
 
 My current work sits around **LLM agents**, **reinforcement learning**, and applications in **clinical decision support** and **robotic systems**.
 
-## What I Build
+## 🔧 What I Build
 
 - **Agent and tool-use systems**: benchmarks, reusable skills, retrieval workflows, and practical agent harnesses.
 - **Healthcare AI**: multi-agent and RAG-based workflows for medical-record evidence extraction, diagnostic reasoning, and ICD-10 coding.
 - **Robotics and control**: reinforcement learning, robotic inspection planning, autonomous vehicle security, and Sim2Real-style problems.
 - **Research software**: small tools that make papers, experiments, and domain workflows easier to reproduce.
 
-## Selected Projects
+## 🌲 Selected Projects
 
 - [ToolBudgetBench](https://github.com/LI-Jialu/ToolBudgetBench): a benchmark and demo harness for measuring LLM agent tool-context budget tradeoffs.
 - [DrugClaw](https://github.com/LI-Jialu/DrugClaw): an OpenClaw-native drug discovery assistant for literature analysis, ADMET prediction, and virtual screening.
@@ -26,6 +26,6 @@ My current work sits around **LLM agents**, **reinforcement learning**, and appl
 
 You can find my academic homepage here: **[li-jialu.github.io](https://li-jialu.github.io/)**
 
-## Contact
+## ☎️ Contact
 
 [Homepage](https://li-jialu.github.io/) | [GitHub](https://github.com/LI-Jialu) | [Email](mailto:jlikr@connect.ust.hk)

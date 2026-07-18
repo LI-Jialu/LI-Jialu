@@ -13,7 +13,7 @@ My current work sits around **LLM agents**, **reinforcement learning**, and appl
 ## 🔧 What I Build
 
 - **Agent and tool-use systems**: benchmarks, reusable skills, retrieval workflows, and practical agent harnesses.
-- **Healthcare AI**: multi-agent and RAG-based workflows for medical-record evidence extraction, diagnostic reasoning, and ICD-10 coding.
+- **Healthcare AI**: multi-agent and RAG-based workflows for medical-record evidence extraction, diagnostic reasoning.
 - **Robotics and control**: reinforcement learning, robotic inspection planning and Sim2Real-style problems.
 - **Research software**: small tools that make papers, experiments, and domain workflows easier to reproduce.
 
